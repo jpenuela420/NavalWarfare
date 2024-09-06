@@ -15,5 +15,5 @@ Recording: Each player records their shots on the firing board, using markers to
 End of the Game
 The game ends when one player has sunk all of the opponent’s ships.
 
-#Juan Diego Gomez Guzman
-#Juan José Peñuela Herrera
+# Juan Diego Gomez Guzman
+# Juan José Peñuela Herrera
